@@ -1,5 +1,5 @@
 <div align="center">
-<h1>LaViPlan</h1>
+<h1>🦁LaViPlan</h1>
 <h3>Language-Guided Visual Path Planning with RLVR</h3>
 
 [Hayeon Oh](https://ophd-hahao.github.io/)<sup>1</sup>
@@ -21,7 +21,7 @@
 ![](assets/ICCVw2025_HayeonOh.jpg)
 
 
-###  Citation
+## 📖  Citation
 If you find this work helpful for your research, please kindly consider citing our paper:
 
 ```
