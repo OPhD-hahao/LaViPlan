@@ -20,6 +20,21 @@
 
 ![](assets/ICCVw2025_HayeonOh.jpg)
 
+## 📢 Notice on Code Availability
+
+Due to the many requests regarding the release of the code for this work, I would like to clarify the following.
+
+At the time this research was conducted, the institution I was affiliated with had restrictions that prevent me from publicly releasing the original codebase.
+
+However, I am happy to provide clarification and support regarding:
+- Dataset splits
+- Evaluation protocols
+- Implementation details of the evaluation pipeline
+
+If you are interested in reproducing the results or using LaViPlan as a baseline, please feel free to contact me.
+
+Thank you for your understanding.
+
 
 ## 📖  Citation
 If you find this work helpful for your research, please kindly consider citing our paper:
