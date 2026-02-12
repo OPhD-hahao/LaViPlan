@@ -22,18 +22,16 @@
 
 ## 📢 Notice on Code Availability
 
-Due to the many requests regarding the release of the code for this work, I would like to clarify the following.
+Due to some requests regarding the release of the code for this work, I would like to provide a brief clarification.
 
-At the time this research was conducted, the institution I was affiliated with had restrictions that prevent me from publicly releasing the original codebase.
+At the time this research was conducted, my affiliated institution had policies that unfortunately do not allow the original codebase to be shared publicly.
 
-However, I am happy to provide clarification and support regarding:
-- Dataset splits
-- Evaluation protocols
-- Implementation details of the evaluation pipeline
+That said, I am more than happy to assist with any questions related to:
+-  Dataset splits
+-  Evaluation protocols
+-  Implementation details of the evaluation pipeline
 
-If you are interested in reproducing the results or using LaViPlan as a baseline, please feel free to contact me.
-
-Thank you for your understanding.
+If you are interested in reproducing the results, please feel free to reach out. I will do my best to support your efforts.
 
 
 ## 📖  Citation
